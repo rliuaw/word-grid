@@ -1,0 +1,6 @@
+.venv/
+**/__pycache__/
+**/prompts.py
+MERIMO.md
+*.tar.gz
+.env
