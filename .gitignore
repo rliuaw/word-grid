@@ -4,3 +4,9 @@
 MERIMO.md
 *.tar.gz
 .env
+results/
+frontend/node_modules/
+frontend/dist/
+checkpoints/
+*.gguf
+.DS_Store
